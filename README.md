@@ -1,5 +1,5 @@
 Okay so this is how you get the server started:
-Run command: `docker-compse up --build`
+Run command: `docker-compose up --build`
 
 That will build the docker image which compiles the source and starts the server. Once it's done, you can go to `localhost:8080/ping` and if it sends something back you're golden. If not, well idk.
 
